@@ -11,13 +11,13 @@ This is an issue Tracking Application implemented for saving and tracking variou
 
 ## Screenshots
 
-**Index page**
+**Index page** <br>
 ![](https://i.imgur.com/V2wFr2k.png)
 
-**Create Page**
+**Create Page** <br>
 ![](https://i.imgur.com/8XiWB4p.png)
 
-**Edit Page**
+**Edit Page** <br>
 ![](https://i.imgur.com/XmPxZW3.png)
 
 
